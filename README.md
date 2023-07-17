@@ -1,2 +1,0 @@
-# console
-Go Console Package
