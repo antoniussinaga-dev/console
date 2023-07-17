@@ -1,0 +1,2 @@
+# console
+Go Console Package
