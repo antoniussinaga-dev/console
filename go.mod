@@ -1,3 +1,3 @@
-module console
+module github.com/antoniussinaga-dev/console
 
-go 1.20
+go 1.19

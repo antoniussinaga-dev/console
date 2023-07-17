@@ -1,8 +1,9 @@
 package color
 
 import (
-	"console/types"
 	"strings"
+
+	"github.com/antoniussinaga-dev/console/types"
 )
 
 type Text string

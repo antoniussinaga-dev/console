@@ -1,13 +1,14 @@
-package main
+package console
 
 import (
-	"console/color"
-	"console/types"
-	"console/utils"
 	"fmt"
 	"os"
 	"reflect"
 	"strings"
+
+	"github.com/antoniussinaga-dev/console/color"
+	"github.com/antoniussinaga-dev/console/types"
+	"github.com/antoniussinaga-dev/console/utils"
 )
 
 type ColorOptions types.ColorOptions
